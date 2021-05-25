@@ -1,0 +1,37 @@
+
+.accordion-section{
+    background-color: #0dcaf0;
+    width: 1300px;
+    margin: auto;
+    margin-top: 50px;
+    /* border: 1px solid #fff; */
+}
+.accordion-item{
+    margin-top: 50px;
+    border: none;
+    background-color: #0dcaf0;
+    
+    
+}
+.accordion-button{
+   
+    background-color: #0dcaf0;
+    border: 1px solid rgba(29, 27, 27,.1);
+    
+}
+.accordion-body img{
+    
+    max-width: 100%;
+    
+   
+}
+.bootstrap-button{
+    margin-top: 95px;
+}
+
+.footer-btn{
+    background-color: #fff;
+    color: #000;
+    border-radius: 1px solid #ddd;
+    padding: 0 5px;
+}
